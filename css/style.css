@@ -12,9 +12,9 @@ img{
 	display: inline-block;
 	width: 100px;
 	height: 100px;
-	background:white;
-	margin: 10px;
-	border-radius: 120%;
+	background: white;
+	margin: 5px;
+	border-radius: 60%;
 	box-shadow: 0 5px 15px -5px blue;
 	color: red;
 	overflow: hidden;
